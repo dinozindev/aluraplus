@@ -1,6 +1,6 @@
 # Alura+
 
-Projeto Alura+ desenolvido em HTML e CSS.
+Projeto Alura+ desenolvido em HTML e CSS (atualizado com Responsive Design). 
 
 
 
